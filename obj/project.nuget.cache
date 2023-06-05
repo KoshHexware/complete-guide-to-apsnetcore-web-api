@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xhh+opfQAlxau8l8S07nq6JlJUdppQPMh7ci8xZ2FZkEaCbqt2YV98CuhmOIhmPdCkDMf8IgWaB4Ki1bee/G1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1000065777\\source\\repos\\MYApps\\My-books\\My-books.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1000065777\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
